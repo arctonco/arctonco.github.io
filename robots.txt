@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://arctonco.github.io/sitemap.html.gz
+Sitemap: https://arctonco.github.io/app/sitemap.html.gz
+Sitemap: https://arctonco.github.io/assets/sitemap.html.gz
+Sitemap: https://arctonco.github.io/css/sitemap.html.gz
+Sitemap: https://arctonco.github.io/includes/sitemap.html.gz
+Sitemap: https://arctonco.github.io/item/sitemap.html.gz
+Sitemap: https://arctonco.github.io/src/sitemap.html.gz
